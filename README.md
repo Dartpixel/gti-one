@@ -1,1 +1,1 @@
-# gti-one
+# git-one
